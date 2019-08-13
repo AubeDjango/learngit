@@ -1,0 +1,3 @@
+git is a gorgeous software
+i love git 
+but i can not use github for git
